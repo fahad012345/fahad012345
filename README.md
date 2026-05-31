@@ -3,8 +3,10 @@
 </div>
 <div align="center"> 
 
-# Fahad Faheem
+<!-- # Fahad Faheem
 I build things that work, scale, and are powerful enough to matter
+
+-->
 
 ---
 
