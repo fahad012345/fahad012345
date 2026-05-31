@@ -7,8 +7,7 @@
 I build things that work, scale, and are powerful enough to matter
 
 -->
-
----
+<!-- --- -->
 
 <!-- [![Email](https://img.shields.io/badge/fahad04648%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fahad04648@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahad-Faheem)
