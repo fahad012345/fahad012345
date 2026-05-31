@@ -15,7 +15,7 @@ I build things that work, scale, and are powerful enough to matter -->
 
 </div> 
 
-## Projects
+## Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
@@ -28,7 +28,6 @@ I build things that work, scale, and are powerful enough to matter -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft_Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](#)
 
----
 
 ## Projects
 
