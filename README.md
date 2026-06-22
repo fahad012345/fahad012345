@@ -4,7 +4,7 @@
 <div align="center"> 
 
 # Fahad Faheem
-I build things that work, scale, and are powerful enough to matter
+## I build things that work, scale, and are powerful enough to matter
 --- 
 
 [![Email](https://img.shields.io/badge/fahad04648%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fahad04648@gmail.com)
