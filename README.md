@@ -16,6 +16,8 @@ I build things that work, scale, and are powerful enough to matter
 
 </div> 
 
+---
+
 ## Technologies
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
