@@ -39,7 +39,7 @@ I build things that work, scale, and are powerful enough to matter
 <td width="50%" valign="top">
 
 ### [Business Management Platform](https://manager.luminair.company)
-Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration with strict data isolation, and Redis-backed query optimization.
+Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration and more.
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
@@ -50,7 +50,7 @@ Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. 
 <td width="50%" valign="top">
 
 ### AI Assistant Platform
-Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling — significantly reducing manual support workload.
+Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling.
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
