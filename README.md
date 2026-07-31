@@ -38,7 +38,7 @@ I build things that work, scale, and are powerful enough to matter
 <tr>
 <td width="50%" valign="top">
 
-### [Business Management Platform](https://manager.luminair.company)
+### [Business Management Platform](https://fahadfaheem.com/work/business-management-platform))
 Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration and more.
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
@@ -49,7 +49,7 @@ Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. 
 </td>
 <td width="50%" valign="top">
 
-### AI Assistant Platform
+### [AI Assistant Platform](https://fahadfaheem.com/work/ai-assistant-platform)
 Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling.
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
