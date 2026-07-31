@@ -38,7 +38,7 @@ I build things that work, scale, and are powerful enough to matter
 <tr>
 <td width="50%" valign="top">
 
-### [Business Management Platform](https://fahadfaheem.com/work/business-management-platform))
+### [Business Management Platform](https://fahadfaheem.com/work/business-management-platform)
 Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration and more.
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
