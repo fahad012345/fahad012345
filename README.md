@@ -63,7 +63,9 @@ Platform for embedding custom AI assistants into organizational websites. Built 
 <td width="50%" valign="top">
 
 ### [Cleffen AI](https://fahadfaheem.com/work/cleffen-ai)
-Lightning-fast custom chatbot built for Cleffen to serve their clients. Single-organisation assistant with product retrieval — tailored to one company’s needs, not a generic multi-tenant product.
+Lightning-fast custom chatbot built specifically for Cleffen to serve their clients, with product retrieval and booking capabilities.
+
+
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
