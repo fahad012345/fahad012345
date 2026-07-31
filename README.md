@@ -9,7 +9,7 @@ I build things that work, scale, and are powerful enough to matter
 
 ---
 
-[![Email](https://img.shields.io/badge/fahad04648%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fahad04648@gmail.com)
+[![Email](https://img.shields.io/badge/contact%40fahadfaheem.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@fahadfaheem.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahad-Faheem)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/fahadfaheemk)
 [![Phone](https://img.shields.io/badge/%2B92_336_0317468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923360317468) 
@@ -34,70 +34,13 @@ I build things that work, scale, and are powerful enough to matter
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Business Management Platform](https://fahadfaheem.com/work/business-management-platform)
-Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration and more.
-
-<!--
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
-
--->
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Assistant Platform](https://fahadfaheem.com/work/ai-assistant-platform)
-Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling.
-
-<!--
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
--->
-
-</td>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Cleffen AI](https://fahadfaheem.com/work/cleffen-ai)
-Lightning-fast custom chatbot built specifically for Cleffen to serve their clients, with product retrieval and booking capabilities.
-
-<!--
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](#)
--->
-
-</td>
-<td width="50%" valign="top">
-
-### [Crito iKiosk](https://fahadfaheem.com/work/property-kiosk)
-Self-service hotel kiosk for Crito used in Germany — guest reservations, check-in flows, and Apaleo PMS integration for automated front-desk operations.
-
-<!--
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Apaleo](https://img.shields.io/badge/Apaleo_PMS-0F2744?style=flat-square)](#)
--->
-
-</td>
-</tr>
-</tr>
-</table>
+- <a href="https://fahadfaheem.com/work/business-management-platform" style="color:#3fb950"><b>Business Management Platform</b></a> — Multi-tenant SaaS for CRM/ERP with granular RBAC/ABAC and cross-business collaboration.
+- <a href="https://fahadfaheem.com/work/ai-assistant-platform" style="color:#3fb950"><b>AI Assistant Platform</b></a> — Embeddable AI assistants with RAG, Qdrant vector search, and dynamic tool calling.
+- <a href="https://fahadfaheem.com/work/cleffen-ai" style="color:#3fb950"><b>Cleffen AI</b></a> — Custom chatbot built specifically for Cleffen to serve their clients, with product retrieval and booking capabilities.
+- <a href="https://fahadfaheem.com/work/property-kiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Self-service hotel kiosk for Crito in Germany with check-in flows and Apaleo PMS integration.
 
 <!-- --- -->
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=footer" />
-</div> -->
-    
+</div>
