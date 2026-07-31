@@ -41,10 +41,13 @@ I build things that work, scale, and are powerful enough to matter
 ### [Business Management Platform](https://fahadfaheem.com/work/business-management-platform)
 Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. Features granular RBAC/ABAC permissions, cross-business collaboration and more.
 
+<!--
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
+
+-->
 
 </td>
 <td width="50%" valign="top">
@@ -52,10 +55,12 @@ Multi-tenant SaaS platform managing 12+ core business resources across CRM/ERP. 
 ### [AI Assistant Platform](https://fahadfaheem.com/work/ai-assistant-platform)
 Platform for embedding custom AI assistants into organizational websites. Built with RAG pipelines, vector search via Qdrant, and dynamic tool calling.
 
+<!--
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+-->
 
 </td>
 
@@ -65,12 +70,12 @@ Platform for embedding custom AI assistants into organizational websites. Built 
 ### [Cleffen AI](https://fahadfaheem.com/work/cleffen-ai)
 Lightning-fast custom chatbot built specifically for Cleffen to serve their clients, with product retrieval and booking capabilities.
 
-
-
+<!--
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](#)
+-->
 
 </td>
 <td width="50%" valign="top">
@@ -78,10 +83,12 @@ Lightning-fast custom chatbot built specifically for Cleffen to serve their clie
 ### [Crito iKiosk](https://fahadfaheem.com/work/property-kiosk)
 Self-service hotel kiosk for Crito used in Germany — guest reservations, check-in flows, and Apaleo PMS integration for automated front-desk operations.
 
+<!--
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Apaleo](https://img.shields.io/badge/Apaleo_PMS-0F2744?style=flat-square)](#)
+-->
 
 </td>
 </tr>
