@@ -58,6 +58,31 @@ Platform for embedding custom AI assistants into organizational websites. Built 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 
 </td>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Cleffen AI](https://fahadfaheem.com/work/cleffen-ai)
+Lightning-fast custom chatbot built for Cleffen to serve their clients. Single-organisation assistant with product retrieval — tailored to one company’s needs, not a generic multi-tenant product.
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### [Crito iKiosk](https://fahadfaheem.com/work/property-kiosk)
+Self-service hotel kiosk for Crito used in Germany — guest reservations, check-in flows, and Apaleo PMS integration for automated front-desk operations.
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Apaleo](https://img.shields.io/badge/Apaleo_PMS-0F2744?style=flat-square)](#)
+
+</td>
+</tr>
 </tr>
 </table>
 
