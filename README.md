@@ -12,7 +12,7 @@ I build things that work, scale, and are powerful enough to matter
 [![Email](https://img.shields.io/badge/contact%40fahadfaheem.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@fahadfaheem.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Fahad-Faheem)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/fahadfaheemk)
-[![Phone](https://img.shields.io/badge/%2B92_336_0317468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923360317468) 
+[![WhatsApp](https://img.shields.io/badge/%2B92_336_0317468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923360317468) 
 
 </div> 
 
