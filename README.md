@@ -40,9 +40,6 @@ I build things that work, scale, and are powerful enough to matter
 - <a href="https://fahadfaheem.com/work/property-kiosk" style="color:#3fb950"><b>Crito iKiosk</b></a> — Self-service hotel kiosk for Crito in Germany with check-in flows and Apaleo PMS integration.
 - <a href="https://fahadfaheem.com/work/open-commerce" style="color:#3fb950"><b>Open Commerce</b></a> — Cloud-native headless e-commerce platform with integrated API keys for custom storefronts.
 
-
-<!-- --- -->
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2744&height=160&section=footer" />
 </div>
